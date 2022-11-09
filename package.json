@@ -1,8 +1,8 @@
 {
-    "name": "social-netowrk",
+    "name": "social-network",
     "version": "1.0.0",
     "private": "true",
-    "description": "",
+    "description": "Mongoose back-end social network",
     "main": "server.js",
     "scripts": {
       "start": "node server.js"
