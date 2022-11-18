@@ -3,7 +3,8 @@
 # Table of Contents
     Description
     Installation
-    Usage 
+    Usage
+    Video Link 
     Technology
     Questions
 
@@ -26,6 +27,10 @@ An API for a social network web application where users can share their thoughts
 To begin using the application run the following command in your terminal and test the application with api/thoughts and api/users.
 
 `npm start` or `node server.js`
+
+# Video Link
+
+View how this application works [HERE](https://drive.google.com/file/d/1a82cwb4zJOZlqbW9hwIvC0hKKPYhKYif/view)
 
 # Technology
 

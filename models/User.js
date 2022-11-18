@@ -24,7 +24,12 @@ const UserSchema = new Schema(
             'Please enter a valid email',
         ]
       },
-      friends: [],
+      friends: [
+        {
+          type: Schema.Types.ObjectId,
+            ref: 'User',
+        }
+      ],
       thoughts: [
         {
             type: Schema.Types.ObjectId,
